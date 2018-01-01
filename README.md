@@ -1,2 +1,1 @@
-# newbie
-https://igniteeng000.github.io/newbie/
+# tribute to apj abdul kalam
