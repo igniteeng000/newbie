@@ -1,7 +1,12 @@
 body{
-  margin-top:60px;
-  margin-left:100px;
+  
+  margin-left:0px;
+  background: #DDDDDD;
 }
 .timeline{
   margin-left:100px;
+  background: #AAAAAA;
+}
+.jumb0tron{
+	background: #DDDDDD ;
 }
