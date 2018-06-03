@@ -1,8 +1,35 @@
 body{
-  margin-top:60px;
-  margin-left:100px;
-  background: #001f3f;
+  
+  margin-left:0px;
+  background: white;
 }
+
 .timeline{
-  margin-left:100px;
+  margin-top:20px;
+  color:white;
+background-color: rgba(1,25,69,0.8);
+
+}
+
+
+
+.text-center{
+    text-align: center;
+}
+
+#Top{
+    width:98%;
+    
+    padding:10px;
+}
+
+li{
+    padding:10px;
+    font-size:17px;
+    font-family: cursive;
+}
+
+li:hover{
+    color:whitesmoke;
+    font-size: 20px;
 }
