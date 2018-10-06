@@ -6,3 +6,6 @@ body{
 .timeline{
   margin-left:100px;
 }
+::-webkit-scrollbar { 
+    display: none; 
+}
