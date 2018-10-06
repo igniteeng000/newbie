@@ -10,3 +10,6 @@ body{
 .jumb0tron{
 	background: #DDDDDD ;
 }
+::-webkit-scrollbar { 
+    display: none; 
+}
